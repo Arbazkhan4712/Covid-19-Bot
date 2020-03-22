@@ -40,7 +40,7 @@ def covidbot(msg):
 		if 'top' in command:
 			bot.sendPhoto(chat_id, open("covid-1.png", 'rb'))
 
-bot = telepot.Bot('1126266313:AAGZ32tcpj3_nNYg7PO7JhXtJQdAGVVd2a8')
+bot = telepot.Bot('APi_key')
 
 
 bot.message_loop(covidbot)
