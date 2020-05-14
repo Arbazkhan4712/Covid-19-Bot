@@ -8,7 +8,7 @@
 WatchDog
 
 ```
-pip install watchdog
+pip install telepot
 ```
 
 
