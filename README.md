@@ -5,3 +5,9 @@
 
  [![GitHub forks](https://img.shields.io/github/forks/arbazkhan4712/Covid-19-Bot?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)                 [![GitHub star](https://img.shields.io/github/stars/arbazkhan4712/Covid-19-Bot?style=social)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
+
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
