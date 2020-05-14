@@ -5,7 +5,7 @@
 
 ## Dependencies:
 
-WatchDog
+Telepot
 
 ```
 pip install telepot
